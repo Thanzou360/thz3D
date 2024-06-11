@@ -1,0 +1,16 @@
+*{
+    margin-right: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.button {
+    background-color: none;
+    border: none;
+    height: 36px;
+    width: 135px;
+    cursor:pointer;
+}
+.tuer:hover {
+    color:white;
+    background-color: red;
+}
